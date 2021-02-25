@@ -1,4 +1,4 @@
-## Introduction
+## The Mythology Surrounding Drugs and Hip-Hop
 
 *"Hip-hop has done more damage to young African Americans than racism in recent years"*
 
@@ -9,6 +9,8 @@ This sentiment, famously sampled in Kendrick Lamar’s 2017 smash-hit “DNA,”
 What this fails to account for, however, are the very reasons that these themes are so commonly seen in rap music in the first place. Addiction rarely exists in a vacuum, and through a closer reading of works from artists who have been oft-vilified as promoting this dangerous lifestyle, we can begin to gleam a more comprehensive understanding of the complex sociopolitical circumstances that drive so many to seek out drugs an escape from the pressures of modern life.
 
 In this mixtape, we present several works that speak to the causes—and repercussions—of substance abuse. Throughout these songs, the artists display extreme emotional vulnerability in documenting their own inner turmoil, from falling into cycles of addiction to combat feelings of depression or isolation, feeling like they’re about to crack under the pressure of life in the public sphere, or reckoning with a justice system that seems to designed to keep them incarcerated and dependent on drugs. Instead of dismissing this music outright as “peddling a toxic ideology,” we believe that engaging with these tracks at face-value shines light on real problems faced by millions, both in the United States and internationally.
+
+Click on the pictures for a YouTube link to the music.
 
 ---
 
@@ -111,7 +113,7 @@ Throughout this eclectic cut, drawing musical influences from 21st-century class
 
 ## Division of Collaborative Work
 
-Brendan Lim: slides, slide-editing, introduction-editing
+Brendan Lim: title, slides, slide-editing, introduction-editing
 
 Harrison Qu: website code, website-editing, song-ordering
 
